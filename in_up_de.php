@@ -78,7 +78,7 @@ $update =false;
   }
 
 }
-/*Delete record*/
+
 if (isset($_GET['delete']))
  {
   $sno=$_GET['delete'];
